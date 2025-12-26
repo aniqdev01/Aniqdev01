@@ -34,16 +34,6 @@ I am full stack engineer with interests in emerging AI technologies. I love to e
 <h2>Github Stats</h2>
 
 
-<div style="display: flex;>
-  <a href="https://github.com/aniqjaved01/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=aniqjaved01&show_icons=true&theme=github_dark" style="max-width: 20% !important;" />
-  </a>
-  <a href="https://github.com/aniqjaved01/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniqjaved01&theme=github_dark&langs_count=8&layout=compact" />
-  </a>
-</div>
-
-
 <a href="https://git.io/streak-stats">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=aniqjaved01&theme=github-dark" />
 </a>
